@@ -24,7 +24,7 @@ ls [-1laRrt.] [file ...]
 [Fore more info about the project click here](https://github.com/oulhafiane/1337-42-ls/blob/master/resources/ft_ls.en.pdf)
 
 ## Video
-![[1337-42-ft_ls](https://youtu.be/7JF6-zx8kKI)](https://github.com/oulhafiane/1337-42-ls/blob/master/resources/screenshot_ft_ls.png?raw=true)
+[![1337-42-ft_ls](https://github.com/oulhafiane/1337-42-ls/blob/master/resources/screenshot_ft_ls.png?raw=true)](https://youtu.be/7JF6-zx8kKI)
 
 ## Bugs
 
