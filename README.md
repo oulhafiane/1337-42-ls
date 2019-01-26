@@ -21,9 +21,10 @@ ls [-1laRrt.] [file ...]
 
 >-t : Sort by time modified (most recently modified first) before sorting the operands by lexicographical order.
 
-[Fore more info about the project click here]()
+[Fore more info about the project click here](https://github.com/oulhafiane/1337-42-ls/blob/master/resources/ft_ls.en.pdf)
 
 ## Video
+![[1337-42-ft_ls](https://youtu.be/7JF6-zx8kKI)](https://github.com/oulhafiane/1337-42-ls/blob/master/resources/screenshot_ft_ls.png?raw=true)
 
 ## Bugs
 
